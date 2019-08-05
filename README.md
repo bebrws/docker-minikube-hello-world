@@ -1,9 +1,12 @@
 # Setup
 https://kubernetes.io/docs/setup/learning-environment/minikube/
 
-# Tutorial
+# Tutorials
 https://kubernetes.io/docs/tutorials/hello-minikube/
 
+## For docker + kubernetes
+
+https://www.linode.com/docs/applications/containers/kubernetes/deploy-container-image-to-kubernetes/#build-the-docker-image
 
 # To run:
 
